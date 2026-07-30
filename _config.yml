@@ -1,0 +1,16 @@
+title: RQC | OSINT & Cyber Threat Intelligence
+description: Aspiring learner in Information Security, CTI, OSINT, AML/CTF and digital investigations.
+author: Rustom / b4h4w
+url: "https://b4h4w.github.io"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
