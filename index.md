@@ -6,7 +6,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 
 <section class="hero">
   <div class="whoami">$ whoami</div>
-  <h1>RQC</h1>
+  <h1>b4h4w</h1>
   <p class="tagline">Information Security · Cyber Threat Intelligence · OSINT</p>
   
   <p>
@@ -85,8 +85,55 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
       Use my public key to encrypt your message. Let's exchange keys for secure communication.
     </p>
     <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
-# Replace this entire block with your actual public key
-# You can also host a .asc or .txt file and link to it
+
+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
+=5izM
 -----END PGP PUBLIC KEY BLOCK-----</pre>
   </div>
 </section>
