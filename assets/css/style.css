@@ -181,3 +181,41 @@ pre, code {
     padding: 1.5rem 1rem 3rem;
   }
 }
+/* PGP Key dropdown */
+.pgp-details {
+  margin-top: 0.5rem;
+}
+
+.pgp-details summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 500;
+  padding: 0.6rem 0;
+  list-style: none;          /* remove default triangle in some browsers */
+  user-select: none;
+  transition: color 0.2s;
+}
+
+.pgp-details summary:hover {
+  color: var(--accent-hover);
+}
+
+/* Custom triangle indicator */
+.pgp-details summary::before {
+  content: "▸  ";
+  display: inline-block;
+  transition: transform 0.2s;
+}
+
+.pgp-details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+/* Optional: hide the default marker completely */
+.pgp-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.pgp-details pre {
+  margin-top: 1rem;
+}
