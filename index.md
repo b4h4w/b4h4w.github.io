@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RQC | OSINT & Cyber Threat Intelligence
+title: b4h4w | OSINT & Cyber Threat Intelligence
 description: Personal site of Rustom – OSINT, CTI, digital investigations and operational security.
 ---
 
@@ -84,7 +84,9 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
     <p style="margin-bottom: 1rem; color: var(--text-muted);">
       Use my public key to encrypt your message. Let's exchange keys for secure communication.
     </p>
-    <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+    <details class="pgp-details">
+      <summary>Show / Hide PGP Public Key</summary>
+      <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGpr1/EBEACy9e50kutFhkeWmUq7CxCOzjDwR0q0LlZWFo/o9OLIW+sTQlYJ
 r44tK7j1r5psVRMGn/b2vUREJ1TorOgSgnaO0zuS3k8/U6+tX3A3Rzqsy/GI89V6
@@ -135,5 +137,6 @@ ZyhZl8vO56WNAxC6INX65gzMOwIQLyhmojJkpVzXRcfxXMCBbAgeWVeAcupVMZMd
 FSyuCJYuhiP46VBfhWWWjJPo4IcepLvaUhFHWmgb/YiLfZg=
 =5izM
 -----END PGP PUBLIC KEY BLOCK-----</pre>
+    </details>
   </div>
 </section>
