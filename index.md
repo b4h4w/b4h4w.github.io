@@ -7,18 +7,16 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section class="hero">
   <div class="whoami">$ whoami</div>
   <h1>b4h4w</h1>
-  <p class="tagline">Information Security · Cyber Threat Intelligence · OSINT</p>
+  <p class="tagline">Infosec Junkie · Cyber Threat Intelligence · Hardware Hobbyists</p>
   
   <p>
-    Rustom is an aspiring learner in Information Security and Cyber Threat Intelligence (CTI), 
-    with a strong foundation in both passive and active Open Source Intelligence (OSINT) techniques. 
-    With years of experience working as a financial crime analyst for one of the largest Fintechs in Europe, 
-    his expertise extends to Anti-Money Laundering/Counter-Terrorist Financing (AML/CTF), 
-    Know Your Customer/Business (KYC/KYB), and Enhanced Due Diligence (EDD).
+    Lifelong learner in cybersecurity with a primary focus on Cyber Threat Intelligence (CTI). I previously worked as a financial crime analyst for one of Europe’s largest fintechs, 
+    where I developed specialized expertise in open-source intelligence (OSINT), Anti-Money Laundering/Counter-Terrorist Financing (AML/CTF), Know Your Customer/Business (KYC/KYB), 
+    and Enhanced Due Diligence (EDD). Combined with broader IT experience, this background provides me with a distinctive perspective on the cybercrime landscape.
   </p>
   <p>
-    Driven by a passion for knowledge-sharing, he actively maintains a blog exploring open-source investigations 
-    and operational security strategies.
+    Driven by a passion for knowledge-sharing, I maintain a blog exploring open-source investigations, 
+    operational security strategies, information security and general ITs.
   </p>
 </section>
 
