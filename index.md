@@ -33,7 +33,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   <h2>Some of my work</h2>
   <div class="cards">
 
-    <div class="card"
+    <div class="card">
       <h3>Tracking American Airlines Flight 5342 — the fatal crash</h3>
       <p>On Wednesday night (January 29, 2025), news broke that a passenger plane and a military helicopter collided near Ronald Reagan National Airport.</p>
       <a href="https://medium.com/the-first-digit/tracking-american-airlines-flight-5342-the-fatal-crash-3af713a67026" target="_blank" rel="noopener">Read More →</a>
@@ -70,7 +70,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
     </p>
     <!-- You can later add a simple form or just keep links -->
     <p>
-      X/Twitter: <a href="https://x.com/_b4h4w">_b4h4w</a>
+      X/Twitter: <a href="https://x.com/_b4h4w">_b4h4w</a><br>
       Medium: <a href="https://medium.com/@b4h4w">@b4h4w</a><br>
       GitHub: <a href="https://github.com/b4h4w">b4h4w</a>
     </p>
