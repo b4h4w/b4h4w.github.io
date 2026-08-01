@@ -21,7 +21,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Learn · Digital Sleuthing</h2>
+  <h2>Digital Sleuthing</h2>
   <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
     Join me on an insightful journey into open-source intelligence. 
     Gain valuable perspectives on privacy, security, and investigation techniques.
@@ -33,7 +33,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   <h2>Some of my work</h2>
   <div class="cards">
 
-    <div class="card">
+    <div class="card"
       <h3>Tracking American Airlines Flight 5342 — the fatal crash</h3>
       <p>On Wednesday night (January 29, 2025), news broke that a passenger plane and a military helicopter collided near Ronald Reagan National Airport.</p>
       <a href="https://medium.com/the-first-digit/tracking-american-airlines-flight-5342-the-fatal-crash-3af713a67026" target="_blank" rel="noopener">Read More →</a>
@@ -55,7 +55,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Subscribe to my newsletter</h2>
+  <h2>Subscribe to my Medium newsletter</h2>
   <p style="color: var(--text-muted); margin-bottom: 1rem;">
     Get notified via email whenever I publish a new story on Medium.
   </p>
@@ -63,13 +63,14 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Get in touch</h2>
+  <h2>Socials</h2>
   <div class="contact-box">
     <p style="color: var(--text-muted); margin-bottom: 1rem;">
       Prefer encrypted communication? Use my public key below.
     </p>
     <!-- You can later add a simple form or just keep links -->
     <p>
+      X/Twitter: <a href="https://x.com/_b4h4w">_b4h4w</a>
       Medium: <a href="https://medium.com/@b4h4w">@b4h4w</a><br>
       GitHub: <a href="https://github.com/b4h4w">b4h4w</a>
     </p>
@@ -80,7 +81,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   <h2>Public Key</h2>
   <div class="key-box">
     <p style="margin-bottom: 1rem; color: var(--text-muted);">
-      Use my public key to encrypt your message. Let's exchange keys for secure communication.
+      Use my public key to encrypt your message. Let's exchange public keys for secure communication.
     </p>
     <details class="pgp-details">
       <summary>Show / Hide PGP Public Key</summary>
