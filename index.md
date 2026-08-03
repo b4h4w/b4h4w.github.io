@@ -36,15 +36,14 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 
 <section>
   <h2>Digital Sleuthing</h2>
-  <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
-    Join me on an insightful journey into open-source intelligence. 
-    Gain valuable perspectives on privacy, security, and investigation techniques.
-  </p>
   <a href="https://medium.com/@b4h4w" class="btn" target="_blank" rel="noopener">Find out more →</a>
 </section>
 
 <section>
-  <h2>Some of my Work</h2>
+  <h2>Blog</h2>
+  <p style="color var (--text-muted); margin-bottom: 1.5rem;">
+    Join me on an insightful journey into open-source intelligence, operational security, computer security, and general IT.
+  </p>:
   <div class="cards">
 
     <div class="card">
@@ -66,6 +65,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
     </div>
 
   </div>
+  <a href="https://medium.com/@b4h4w" class="btn" target="_blank" rel="noopener">Find out more →</a
 </section>
 
 <section>
