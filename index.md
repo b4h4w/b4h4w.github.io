@@ -38,7 +38,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   <h2>Blog</h2>
   <p style="color var (--text-muted); margin-bottom: 1.5rem;">
     Join me on an insightful journey into open-source intelligence, operational security, computer security, and general IT.
-  </p>:
+  </p>
   <div class="cards">
 
     <div class="card">
