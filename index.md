@@ -60,7 +60,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
     </div>
 
   </div>
-  <a href="https://medium.com/@b4h4w" class="btn" target="_blank" rel="noopener">Find out more →</a
+  <a href="https://medium.com/@b4h4w" class="btn" target="_blank" rel="noopener">Find out more</a>
 </section>
 
 <section>
