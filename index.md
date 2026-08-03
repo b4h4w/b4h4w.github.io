@@ -35,11 +35,6 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Digital Sleuthing</h2>
-  <a href="https://medium.com/@b4h4w" class="btn" target="_blank" rel="noopener">Find out more →</a>
-</section>
-
-<section>
   <h2>Blog</h2>
   <p style="color var (--text-muted); margin-bottom: 1.5rem;">
     Join me on an insightful journey into open-source intelligence, operational security, computer security, and general IT.
