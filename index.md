@@ -21,6 +21,20 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
+  <h2>Homelab</h2>
+  <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+  My current computer homelab setup for testing and continues learning.
+  </p>
+  <div class="homelab-image">
+    <img
+       src="{{ '/assets/images/WinServer22xWin10ClientxOPNsenseFirewallxKali.png' | relative_url }}"
+       alt="Homelab diagram: Windows Server 2022, Windows 10 Client, OPNsense Firewall, and Kali Linux"
+       loading="lazy"
+    >
+  </div>
+</section>
+
+<section>
   <h2>Digital Sleuthing</h2>
   <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
     Join me on an insightful journey into open-source intelligence. 
@@ -30,7 +44,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Some of my work</h2>
+  <h2>Some of my Work</h2>
   <div class="cards">
 
     <div class="card">
