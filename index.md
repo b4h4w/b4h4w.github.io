@@ -74,9 +74,6 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section>
   <h2>Socials</h2>
   <div class="contact-box">
-    <p style="color: var(--text-muted); margin-bottom: 1rem;">
-      Prefer encrypted communication? Use my public key below.
-    </p>
     <!-- You can later add a simple form or just keep links -->
     <p>
       X/Twitter: <a href="https://x.com/_b4h4w">_b4h4w</a><br>
