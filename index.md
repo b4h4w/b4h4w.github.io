@@ -73,7 +73,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 
 <section>
   <h2>Links & Socials</h2>
-<!--  <idiv class="contact-box"> -->
+<!-- Removing Box design <idiv class="contact-box"> -->
     <div class="social-icons">
       <a href="https://x.com/_b4h4w" target="_blank" rel="noopener" title="X / Twitter" aria-label="X / Twitter">
         <img src="{{ '/assets/images/icons/X.png' | relative_url }}" alt="X / Twitter">
