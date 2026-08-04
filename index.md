@@ -74,12 +74,17 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section>
   <h2>Socials</h2>
   <div class="contact-box">
-    <!-- You can later add a simple form or just keep links -->
-    <p>
-      X/Twitter: <a href="https://x.com/_b4h4w">_b4h4w</a><br>
-      Medium: <a href="https://medium.com/@b4h4w">@b4h4w</a><br>
-      GitHub: <a href="https://github.com/b4h4w">b4h4w</a>
-    </p>
+    <div class="social-icons">
+      <a href="https://x.com/_b4h4w" target="_blank" rel="noopener" title="X / Twitter" aria-label="X / Twitter">
+        <img src="{{ '/assets/images/X.png' | relative_url }}" alt="X / Twitter">
+      </a>
+      <a href="https://medium.com/@b4h4w" target="_blank" rel="noopener" title="Medium" aria-label="Medium">
+        <img src="{{ '/assets/images/medium.png' | relative_url }}" alt="Medium">
+      </a>
+      <a href="https://github.com/b4h4w" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+        <img src="{{ '/assets/images/github.svg' | relative_url }}" alt="GitHub">
+      </a>
+    </div>
   </div>
 </section>
 

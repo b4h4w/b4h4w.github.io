@@ -157,6 +157,38 @@ h3 {
   text-decoration: none !important;
 }
 
+/* Social icons */
+.social-icons {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  transition: all 0.2s ease;
+}
+
+.social-icons a:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
+  transform: translateY(-3px);
+}
+
+.social-icons img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
 /* Contact / Public Key */
 .contact-box, .key-box {
   background: var(--bg-card);
