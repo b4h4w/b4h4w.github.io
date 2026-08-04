@@ -72,7 +72,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 </section>
 
 <section>
-  <h2>Socials</h2>
+  <h2>Links & Socials</h2>
   <div class="contact-box">
     <div class="social-icons">
       <a href="https://x.com/_b4h4w" target="_blank" rel="noopener" title="X / Twitter" aria-label="X / Twitter">
@@ -83,6 +83,9 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
       </a>
       <a href="https://github.com/b4h4w" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
         <img src="{{ '/assets/images/icons/github.svg' | relative_url }}" alt="GitHub">
+      </a>
+      <a href="https://www.credential.net/profile/rustomiiicatinoy/wallet" target="_blank" rel="noopener" title="Accredible" aria-label="Accredible">
+        <img src="{{ '/assets/images/icons/Accredible.png' | relative_url }}" alt="Accredible">
       </a>
     </div>
   </div>
