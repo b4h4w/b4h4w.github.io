@@ -7,7 +7,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section class="hero">
   <div class="whoami">$ whoami</div>
   <h1>b4h4w</h1>
-  <p class="tagline">Infosec Junkie · Cyber Threat Intelligence · Hardware Hobbyists</p>
+  <p class="tagline">Infosec Novice · Cyber Threat Intelligence · Hardware Hobbyists</p>
   
   <p>
     Lifelong learner in cybersecurity with a primary focus on Cyber Threat Intelligence (CTI). I previously worked as a financial crime analyst for one of Europe’s largest fintechs, 
@@ -23,7 +23,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section>
   <h2>Homelab</h2>
   <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
-  My current computer homelab setup for testing and continues learning.
+  Virtualized cybersecurity and networking homelab built with KVM/QEMU (Virt-Manager). Features OPNsense firewall, Windows Server Active Directory domain, segmented networks, and SOC-oriented  monitoring concepts for hands-on learning in infosec and network defense.
   </p>
   <div class="homelab-image">
     <img
