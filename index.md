@@ -76,13 +76,13 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   <div class="contact-box">
     <div class="social-icons">
       <a href="https://x.com/_b4h4w" target="_blank" rel="noopener" title="X / Twitter" aria-label="X / Twitter">
-        <img src="{{ '/assets/images/X.png' | relative_url }}" alt="X / Twitter">
+        <img src="{{ '/assets/images/icons/X.png' | relative_url }}" alt="X / Twitter">
       </a>
       <a href="https://medium.com/@b4h4w" target="_blank" rel="noopener" title="Medium" aria-label="Medium">
-        <img src="{{ '/assets/images/medium.png' | relative_url }}" alt="Medium">
+        <img src="{{ '/assets/images/icons/medium.png' | relative_url }}" alt="Medium">
       </a>
       <a href="https://github.com/b4h4w" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
-        <img src="{{ '/assets/images/github.svg' | relative_url }}" alt="GitHub">
+        <img src="{{ '/assets/images/icons/github.svg' | relative_url }}" alt="GitHub">
       </a>
     </div>
   </div>
