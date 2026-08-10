@@ -87,6 +87,9 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
       <a href="https://www.credential.net/profile/rustomiiicatinoy/wallet" target="_blank" rel="noopener" title="Accredible" aria-label="Accredible">
         <img src="{{ '/assets/images/icons/Accredible.png' | relative_url }}" alt="Accredible">
       </a>
+      <a href="https://start.me/p/7PmogA/osint" target="_blank" rel="noopener" title="StartMe" aria-label="StartMe">
+        <img src="{{ '/assets/images/icons/StartMe.png' | relative_url }}" alt="Accredible">
+      </a>
     </div>
 <!--  </div> -->
 </section>
