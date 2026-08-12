@@ -22,9 +22,6 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 
 <section>
   <h2>Homelab</h2>
-  <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
-    {% include homelab.md %}
-  </p>
   <div class="homelab-image">
     <img
        src="{{ '/assets/images/Full_current_homelab_setup.drawio.png' | relative_url }}"
@@ -32,6 +29,9 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
        loading="lazy"
     >
   </div>
+  <p style="color: var(--text-muted); margine-bottom: 1.5rem;">
+    {% include homelab.md %}
+  </P>
 </section>
 
 <section>
