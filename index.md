@@ -22,14 +22,14 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 
 <section>
   <h2>Homelab</h2>
-  <div class="homelab-image; margin-bottom: 1.5rem;">
+  <div class="homelab-image">
     <img
        src="{{ '/assets/images/Full_current_homelab_setup.drawio.png' | relative_url }}"
        alt="Homelab diagram: Windows Server 2022, Windows 10 Client, OPNsense Firewall, Kali Linux, Windows 11, ChromeOS, MacOS, Tails, GNS3 VM, OpenWRT"
        loading="lazy"
     >
   </div>
-  <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+  <p style="color: var(--text-muted); margin-bottom: 1.5rem; margin-top 1.5rem;">
     {% include homelab.md %}
   </P>
 </section>
