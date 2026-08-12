@@ -20,6 +20,7 @@
   <li>Windows 11, macOS, and ChromeOS instances for general client-side testing</li>
   <li>GNS3 for network simulation</li>
   <li>OpenWRT for router firmware and networking experiments</li>
+  <li>Planned: Ubuntu LTS Wazuh server (indexer + dashboard) and Wazuh agent on OPNsense for SOC and detection engineering practice</li>
 </ul>
 
 <p style="color: var(--text-muted); margin-bottom: 0;">
