@@ -29,7 +29,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
        loading="lazy"
     >
   </div>
-  <p style="color: var(--text-muted); margin-bottom: 1.5rem; margin-top 1.5rem;">
+  <p style="color: var(--text-muted); margin-bottom: 1.5rem; margin-top: 1.5rem;">
     {% include homelab.md %}
   </P>
 </section>
