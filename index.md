@@ -27,7 +27,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   </p>  
   <div class="homelab-image">
     <img
-       src="{{ '/assets/images/Full_current_homelab_setup.drawio.png' | relative_url }}"
+       src="{{ '/assets/images/Full_current_homelab_setup_w_planned_Wazuh.drawio.png' | relative_url }}"
        alt="Homelab diagram: Windows Server 2022, Windows 10 Client, OPNsense Firewall, Kali Linux, Windows 11, ChromeOS, MacOS, Tails, GNS3 VM, OpenWRT"
        loading="lazy"
     >
