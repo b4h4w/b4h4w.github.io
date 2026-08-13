@@ -43,7 +43,7 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
   </p>  
   <div class="homelab-image">
     <img
-       src="{{ '/assets/images/My_Approach_to_AI_with_Ollama.drawio.png' | relative_url }}"
+       src="{{ '/assets/images/My_Approach_to_AI_with_Ollama.drawio_refine.png' | relative_url }}"
        alt="My Current approach to AI"
        loading="lazy"
     >
