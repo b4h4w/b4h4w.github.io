@@ -37,9 +37,10 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
 <section>
   <h2>My Approach to AI</h2>
   <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
-    I treat AI as a practical research and problem-solving partner, not a black box. When I’m exploring or trying to solve something, I start with a clear search, jot everything down in Obsid    ian so the notes stay linked and useful over time, and pull in multiple models (Grok, ChatGPT, etc.) whenever the documentation feels incomplete. 
-    Then I actually apply what I’ve learned, test it in a controlled virtual machine, and adjust based on whether it works. The cycle is simple and intentional: document → researh with 
-    different AIs when needed → apply → test → refine. It keeps the whole process grounded, transparent, and always getting a little better.
+    I treat AI as a practical research and problem-solving partner, not a black box. When I’m exploring or trying to solve something, I start with a clear search on Obsidian local instance, 
+     move on to online AI models (Grok, ChatGPT, etc.) whenever the documentation feels incomplete or does not exist (yet). Then I actually apply what I’ve learned, test it in a controlled 
+     virtual machine, and adjust based on whether it works. The cycle is simple and intentional: check if already documented → researh with different AIs when needed → verify → test → apply →
+     refine and document again. It keeps the whole process grounded, transparent, and always getting a little better.
   </p>  
   <div class="homelab-image">
     <img
