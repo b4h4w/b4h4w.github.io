@@ -61,13 +61,13 @@ description: Personal site of Rustom – OSINT, CTI, digital investigations and 
     <div class="card">
       <h3>Chrome Extension Scareware Abusing Affiliate Programs: Mapping the infrastructure and its mechanism with OSINT and AI</h3>
       <p>On August 12, Palo Alto Networks’ Unit 42 published a report on malicious browser extensions that lure users into downloading a browser through an affiliate program.</p>
-      <a href="https://medium.com/the-first-digit/tracking-american-airlines-flight-5342-the-fatal-crash-3af713a67026" target="_blank" rel="noopener">Read More →</a>
+      <a href="https://medium.com/@b4h4w/chrome-extension-scareware-abusing-affiliate-programs-mapping-the-infrastructure-and-its-mechanism-1d87df8a5760" target="_blank" rel="noopener">Read More →</a>
     </div>
 
     <div class="card">
       <h3>The power of observation and search engines</h3>
       <p>Geolocating Images (TryHackMe CTF Challenge) without using reverse image search engines.</p>
-      <a href="https://medium.com/@b4h4w/chrome-extension-scareware-abusing-affiliate-programs-mapping-the-infrastructure-and-its-mechanism-1d87df8a5760" target="_blank" rel="noopener">Read More →</a>
+      <a href="https://medium.com/the-first-digit/the-power-of-observation-and-search-engine-d1425e1fbd4b" target="_blank" rel="noopener">Read More →</a>
     </div>
 
     <div class="card">
